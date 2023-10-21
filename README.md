@@ -1,3 +1,11 @@
-I have 11+ years of working experience in the telecom sector; I am currently working as a Solution Architect at Punjab Group. I am also a professional Microsoft database trainer at EVS institute. I am a self-motivated agile software developer with 6+ years of experience in different stages of SDL. My domain knowledge is in Telecom, Education, Real Estate & E-commerce. My expertise is in business flow automation, creation of ETL processes, enterprise-level progressive web app development, and improving web UI & UX. I am a father of a 6-year-old and a raspberry pi project enthusiast.
-
-__Core Competencies:__ T-SQL, C# .NET, SSIS, ASP.Net Core, Business flow automation, Web UI/UX
+👨‍💼 11+ years of telecom experience, currently a Sr. DevOps Engineer @ tkxel.
+📚 Professional Microsoft database trainer @ EVS Institute.
+🖥️ Agile software developer with 6+ years of SDL expertise.
+📈 Data Engineer & analyst using Microsoft stack.
+🌐 Domain knowledge in Telecom, Real Estate & E-commerce.
+🤖 Specialized in business flow automation & ETL processes.
+📱 In past I have developed enterprise-level progressive web apps.
+💼 Love to improved web UI & UX and add value.
+📈 Reduced technical debt and added instrumentation to code.
+🏆 Recognized with awards and certifications in Azure, Python, and more.
+👪 A father and a Raspberry Pi enthusiast.
