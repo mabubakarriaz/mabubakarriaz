@@ -11,7 +11,7 @@
 - 👪 A father and a Raspberry Pi enthusiast.
 
 My full digital portfolio:  
-[abubakarriaz.com.pk](https://abubakarriaz.com.pk)
+🌐[abubakarriaz.com.pk](https://abubakarriaz.com.pk)
 
 My professional career:  
-[LinkedIn](https://www.linkedin.com/in/mabubakarriaz/)
+🌐[mabubakarriaz](https://www.linkedin.com/in/mabubakarriaz/)
