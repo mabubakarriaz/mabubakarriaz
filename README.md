@@ -10,8 +10,8 @@
 - 🏆 Recognized with awards and certifications in Azure, Python, and more.
 - 👪 A father and a Raspberry Pi enthusiast.
 
-My full digital portfolio:  
-🌐[abubakarriaz.com.pk](https://abubakarriaz.com.pk)
+My Blog
+🌐[blog.abubakarriaz.com.pk](https://blog.abubakarriaz.com.pk/)
 
 My professional career:  
 🌐[mabubakarriaz](https://www.linkedin.com/in/mabubakarriaz/)
