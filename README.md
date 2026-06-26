@@ -1,4 +1,4 @@
-Most cloud advice is written by people who don't run what they recommend. I do — in a home Kubernetes lab, on real Azure, on real pipelines.
+Most cloud advice is written by people who don't run what they recommend. I do, in a home-lab, on real Azure, on real pipelines.
 
 I'm a DevOps and Azure cloud-native engineer and a Microsoft Certified Trainer. My work sits where infrastructure, automation, and dev meet: I design and run cloud-native systems, then break down what actually worked so other engineers can use it. I have more than a decade of experience in telecom and software sector. Currently working as Cloud Architect at Tkxel.
 
