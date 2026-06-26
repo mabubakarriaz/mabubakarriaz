@@ -7,8 +7,8 @@ A working home lab (k3s, IaC, o11y), AZ-204, AZ-400, AZ-305 Microsoft certificat
 I write for practitioners and my peer engineers. If you work in Azure, home-lab, DevOps, or platform engineering or FDE, follow along, and reach out if something here is useful to you.
 
 My Blogs
-🌐[blog.abubakarriaz.com.pk](https://blog.abubakarriaz.com.pk/)
-🌐[blog.lambdaexpression.net](https://blog.lambdaexpression.net/)
+🌐[Personal](https://blog.abubakarriaz.com.pk/)
+🌐[LambdaExpression](https://blog.lambdaexpression.net/)
 
 My professional career:  
 🌐[mabubakarriaz](https://www.linkedin.com/in/mabubakarriaz/)
